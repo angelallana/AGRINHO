@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(90deg, pink, green);
+    text-align: center;
+}
+h1, h2 {
+    font-size: 50px;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
